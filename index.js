@@ -1,1 +1,1 @@
-ReactDOM.render(<h1>Practicing my react code!!!</h1>, document.getElementById("root"))
+ReactDOM.render(<h1>Cambio de la nueva rama!!!</h1>, document.getElementById("root"))
